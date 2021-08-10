@@ -1,0 +1,26 @@
+.header {
+    width: 100%;
+    margin-top:0px;
+    font-size: 25px;
+}
+#start {
+    font-size: 17px;
+    margin-top: 10px;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+canvas {
+    border: solid 5px white;
+    border-radius: 25px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 5px grey;
+}
+.footer {
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    color: white;
+}
